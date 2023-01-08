@@ -39,15 +39,17 @@
 .pricing{
     font-size: 15px;
     font-weight: bold;
-    margin-right: 10px;
 }
 
 #price{
     color: #6674cc;
+    margin-right: 10px;
+
 }
 
 #original-price{
     color: gray;
+    margin-right: 10px;
 }
 
 #discount{
