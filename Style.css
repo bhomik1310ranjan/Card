@@ -1,0 +1,63 @@
+@font-face{
+    font-family: Rubik;
+    src: url(Rubik/Rubik-VariableFont_wght.ttf);
+}
+
+#card{
+    width: 325px;
+    height: 325px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 5px 1px silver;
+    font-family: Rubik;
+}
+
+#card-img{
+    width: 301px;
+    height: 175px;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+#course-title{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#line{
+    width: 257px;
+    height: 0.1px;
+    border: 1px solid rgb(235, 235, 235);
+    background-color: rgb(235, 235, 235);
+    margin-bottom: 15px;
+}
+
+.pricing{
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#price{
+    color: #6674cc;
+}
+
+#original-price{
+    color: gray;
+}
+
+#discount{
+    color: white;
+    background-color: rgb(29, 209, 161);
+    border: 1px solid rgb(29, 209, 161);
+    border-radius: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
